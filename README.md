@@ -11,7 +11,8 @@ Requirement
   * Jika sudah click "OK"
 3. Masukkan NIM dan PASS kamu ke dalam file nim.txt dengan format NIM|PASS
   ![image](https://user-images.githubusercontent.com/28753336/169681785-0781448c-1fdb-4154-b17f-b7da18df4885.png)
-
 5. Kemudian Buka klik 2x pada file clickme.bat pada folder bot
 6. Bot otomatis berjalan
-  ![image](https://user-images.githubusercontent.com/28753336/169693855-816d3e14-d3c1-4bb1-9918-b25d1518f6b0.png)
+
+![image](https://user-images.githubusercontent.com/28753336/169693912-f46f15d4-b0ab-4d04-80ae-a6718ee77af4.png)
+
