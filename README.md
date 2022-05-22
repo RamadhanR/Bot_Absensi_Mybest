@@ -1,4 +1,4 @@
-# Bot_Absensi_Mybest
+# Bot Absensi Mybest
 
 Requirement
 1. Instalasi Server Local, disarankan menggunakan XAMPP
