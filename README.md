@@ -14,3 +14,4 @@ Requirement
 
 5. Kemudian Buka klik 2x pada file clickme.bat pada folder bot
 6. Bot otomatis berjalan
+  ![image](https://user-images.githubusercontent.com/28753336/169693855-816d3e14-d3c1-4bb1-9918-b25d1518f6b0.png)
