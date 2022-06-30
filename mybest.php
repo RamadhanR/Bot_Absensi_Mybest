@@ -50,8 +50,8 @@ for ($i = 0; $i < $count; $i++) {
     curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
 
     $response = curl_exec($ch);
-    $carinama = explode('id="eMail" placeholder="', $response);
-    $nama = explode('" readonly', $carinama[1]);
+    $carinama = explode('<div class="font-medium text-base text-gray-800">', $response);
+    $nama = explode('</div>', $carinama[1]);
     if (empty($nama[0])) {
         $i = $i - 1;
         curl_setopt($ch, CURLOPT_FRESH_CONNECT, 1);
